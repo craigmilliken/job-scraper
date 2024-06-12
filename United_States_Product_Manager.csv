@@ -1,11 +1,11 @@
-job_title,company_name,time_posted,num_applicants
-"Lead Product Manager, Payments",Gemini,4 days ago,
-"Senior Manager, Product Technical Services",LinkedIn,4 days ago,58 applicants
-"Product Manager (US remote, EST only)",Digimarc,1 week ago,114 applicants
-Product Manager,Mach7 Technologies,2 weeks ago,
-"Platform Product Manager, Standards",Airbnb,4 days ago,
-Product Manager,Motion Recruitment,1 day ago,75 applicants
-Product Manager,Oracle,3 days ago,139 applicants
-Product Manager,Microsoft,4 days ago,93 applicants
-Product Manager,Steneral Consulting,5 days ago,
-Product Manager,CONMED Corporation,2 weeks ago,
+job_title,company_name,time_posted,num_applicants,job_location,senority_level
+"Product Manager, YouTube Premium",Google,1 week ago,,"San Bruno, CA",Not Applicable
+"Product Manager, Games Personalization",Netflix,1 week ago,,"Los Gatos, CA",Not Applicable
+"Product Manager, Search",LinkedIn,2 weeks ago,,"Mountain View, CA",Not Applicable
+"Product Manager, WhatsApp",WhatsApp,2 weeks ago,,"San Francisco, CA",Not Applicable
+Product Manager - TikTok Social,TikTok,2 weeks ago,,"Los Angeles, CA",Not Applicable
+"Product Manager I, Search",Google,3 days ago,,"Mountain View, CA",Not Applicable
+"Product Manager, WhatsApp",WhatsApp,2 weeks ago,,"Menlo Park, CA",Not Applicable
+Product Manager,Meta,2 weeks ago,,"Los Angeles, CA",Not Applicable
+Product Manager – Notifications,LinkedIn,2 weeks ago,,"Mountain View, CA",Not Applicable
+Senior Product Manager,Attentive,2 weeks ago,,"San Francisco, CA",Mid-Senior level
